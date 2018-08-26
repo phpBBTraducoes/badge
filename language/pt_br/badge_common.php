@@ -69,7 +69,7 @@ $lang = array_merge($lang, array(
 	'BADGE_USED'				=> 'usado',
 	'BADGE_BETWEEN'				=> 'entre',
 	'BADGE_AND'					=> 'e',
-	'BADGE_MORE'				=> 'igual ou mais que',
+	'BADGE_MORE'				=> 'igual ou maior que',
 	'MORE_BADGES'				=> '<a class="badge-more" href="%1$s"><span class="hidden-xs">&#43;%2$s mais</span><i class="visible-xs-inline-block fa fa-plus-circle"></i></a>',
 
 	// Notifications
@@ -79,5 +79,5 @@ $lang = array_merge($lang, array(
 
 	// Misc
 	'BADGE_LINK_AD'	                    => 'BBAwards por SiteSplat',
-	'BADGE_LINK_AD_TITLE'	            => 'Temas Premium Profissionais e Extensões',
+	'BADGE_LINK_AD_TITLE'	            => 'Temas Premium e Extensões Profissionais',
 ));
